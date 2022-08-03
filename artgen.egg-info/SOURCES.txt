@@ -1,0 +1,8 @@
+setup.py
+artgen.egg-info/PKG-INFO
+artgen.egg-info/SOURCES.txt
+artgen.egg-info/dependency_links.txt
+artgen.egg-info/requires.txt
+artgen.egg-info/top_level.txt
+autoart/__init__.py
+autoart/effects.py
