@@ -5,7 +5,7 @@ Summary: Basic image manipulation and viewing in Python.
 Author: Owen Wardlaw
 Author-email: owen.wardlaw2017@gmail.com
 Keywords: python,video,image,art,random
-Classifier: Development Status :: Planning
+Classifier: Development Status :: 1 - Planning
 Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
