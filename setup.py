@@ -19,7 +19,7 @@ setup(
     install_requires=['opencv-python', 'random', 'numpy'],
     keywords=['python', 'video', 'image', 'art', 'random'],
     classifiers=[
-        "Development Status :: Planning",
+        "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",

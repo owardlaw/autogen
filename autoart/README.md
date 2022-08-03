@@ -1,6 +1,6 @@
 # Image refresh filters
 
-Installations:
+Installations will include: 
 
 ```console
 pip install opencv-python
